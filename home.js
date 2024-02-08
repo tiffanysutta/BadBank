@@ -4,7 +4,7 @@ function Home(){
       bgcolor="primary"
       txtcolor="white"
       header="BadBank Landing Page"
-      title="Welcome to the Bank"
+      title="Welcome to the BadBank"
       text="You can move around using the navigation bar."
       body={(<img src="Bank3.png" className="img-fluid" alt="Responsive image"/>)}
     />    
